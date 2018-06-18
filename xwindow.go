@@ -6,7 +6,7 @@ import (
 	"github.com/BurntSushi/xgb"
 	"github.com/BurntSushi/xgb/xinerama"
 	"github.com/BurntSushi/xgb/xproto"
-	"github.com/kbinani/screenshot/internal/util"
+	"github.com/brendanporter/screenshot-util"
 	"image"
 	"image/color"
 )
